@@ -3,7 +3,7 @@
 
 ### Requirements
 
-please go through serveo [serveo](#https://serveo.net/) before processing further.
+please go through serveo [serveo](https://serveo.net/) before processing further.
 
 #### note
 
