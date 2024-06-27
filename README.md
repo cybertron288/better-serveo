@@ -8,7 +8,7 @@ please go through serveo [serveo](https://serveo.net/) docs before processing fu
 #### note
 
 ```
-You need to authorise serveo with google or github for first time when you run it
+The first time you run Serveo, you'll need to authorize it using either your Google or GitHub account.
 ```
 
 
